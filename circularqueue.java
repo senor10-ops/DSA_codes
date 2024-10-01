@@ -23,7 +23,6 @@ class CircularQueue {
         }
     }
 
-    
     public void dequeue() {
         
         if (front == -1 && rear == -1) {
