@@ -10,5 +10,6 @@ void printFirstElement(int arr[], int size) {
 int main() {
     int arr[] = {1, 2, 3, 4, 5};
     printFirstElement(arr, 5);
+    
     return 0;
 }
