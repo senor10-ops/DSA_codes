@@ -38,7 +38,9 @@ public class insertnodeatfirst {
         
         // Print a newline at the end
         System.out.println();
+        
     }
+    
 
     // Driver code to test the functions
     public static void main(String[] args) {
@@ -61,3 +63,7 @@ public class insertnodeatfirst {
         printList(head);
     }
 }
+
+
+
+
