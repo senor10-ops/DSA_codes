@@ -1,14 +1,12 @@
-// C program to delete a node from the beginning of given
-// linked list
+
 #include <stdio.h>
 #include <stdlib.h>
 
-// Node structure for the linked list
+
 struct Node {
     int data;
     struct Node* next;
 };
-
 
 // Function to delete the head node
 struct Node* deleteHead(struct Node* head)

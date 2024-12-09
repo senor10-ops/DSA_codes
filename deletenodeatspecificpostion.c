@@ -1,10 +1,8 @@
-// C program to delete a linked list node at a given
-// position
+
 
 #include <stdio.h>
 #include <stdlib.h>
 
-// Node structure for the linked list
 struct Node {
     int data;
     struct Node* next;
