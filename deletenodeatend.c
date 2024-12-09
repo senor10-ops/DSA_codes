@@ -1,15 +1,14 @@
-// C program to delete the last node of linked list
 
 #include <stdio.h>
 #include <stdlib.h>
 
-// Node structure for the linked list
+
 struct Node {
     int data;
     struct Node* next;
 };
 
-// Function to remove the last node of the linked list
+
 struct Node* removeLastNode(struct Node* head)
 {
     // If the list is empty, return NULL
