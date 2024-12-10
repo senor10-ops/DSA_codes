@@ -14,7 +14,7 @@ public class selectionSort {
             arr[mini] = arr[i];
             arr[i] = temp;
         }
-
+        
         System.out.println("After selection sort:");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
