@@ -13,6 +13,7 @@ public class selectionSort {
             int temp = arr[mini];
             arr[mini] = arr[i];
             arr[i] = temp;
+         
         }
         
         System.out.println("After selection sort:");
