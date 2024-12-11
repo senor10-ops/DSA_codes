@@ -1,7 +1,7 @@
 import java.util.*;  
 class swappingwihoutusingthirdvariable
 {  
-    public static void main(String a[])   
+    public static void main(String args[])   
     {   
         System.out.println("Enter the value of x and y");  
         Scanner sc = new Scanner(System.in);  
