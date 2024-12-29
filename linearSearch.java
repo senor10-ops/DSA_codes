@@ -13,7 +13,6 @@ class linearSearch {
     // If the given number not found.
     return -1;
 
-
     }
     public static void main(String[] args) {
 
